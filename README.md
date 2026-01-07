@@ -81,12 +81,8 @@ F1-Score
 Confusion Matrix
 
 🏆 Results Summary
-Model	Precision	Recall	F1-Score	Accuracy
-Random Forest	0.90	0.89	0.90	0.90
-KNN	0.98	0.97	0.97	0.97
-CNN	0.98	0.98	0.98	0.98
 
-✔️ CNN outperforms Random Forest and KNN in all metrics, making it the most effective approach for ransomware detection in this project.
+CNN outperforms Random Forest and KNN in all metrics, making it the most effective approach for ransomware detection in this project.
 
 🧪 Confusion Matrix Highlights
 
@@ -98,7 +94,7 @@ High true positive rate indicates strong ransomware detection capability
 
 The full implementation (ML & DL models) is available on Google Colab:
 
-https://colab.research.google.com/drive/1cc5QfYe1QvkR55P89Xi4nUYstxghmT?usp=sharing
+https://colab.research.google.com/drive/1cc5QfY_e1QvkR55P89Xi4nUYstxgh_mT?usp=sharing
 
 📌 Conclusion
 
